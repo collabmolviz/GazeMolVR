@@ -1,0 +1,11 @@
+3rdParty/HTC.UnityPlugin/ filter=lfs diff=lfs merge=lfs -text
+3rdParty/HTC.UnityPlugin/** filter=lfs diff=lfs merge=lfs -text
+Resources/Models/** filter=lfs diff=lfs merge=lfs -text
+StreamingAssets/ff14SB.json filter=lfs diff=lfs merge=lfs -text
+Resources/Ubuntu-B.ttf filter=lfs diff=lfs merge=lfs -text
+Resources/Images/minus.png filter=lfs diff=lfs merge=lfs -text
+Plugins/OptimizedNBEnergyCalculation.dll filter=lfs diff=lfs merge=lfs -text
+StreamingAssets/1brs_AMBER_docking_A.pdb filter=lfs diff=lfs merge=lfs -text
+StreamingAssets/1brs_AMBER_docking_D.pdb filter=lfs diff=lfs merge=lfs -text
+3rdParty/SimpleFileBrowser/** filter=lfs diff=lfs merge=lfs -text
+StreamingAssets/IronPython/** filter=lfs diff=lfs merge=lfs -text

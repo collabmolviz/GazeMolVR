@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MaterialText
+  - MaterialButtonLayer
+  - protein
+  - RightSphereReticle
+  - LocalPlayer
+  - RemotePlayer
+  - Teacher
+  - Students
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - AOLayer
+  - 3DUI
+  - Lay1
+  - Lay2
+  - Lay3
+  - Lay4
+  - Lay5
+  - Lay6
+  - Lay7
+  - Lay8
+  - Lay9
+  - Lay10
+  - Lay11
+  - Lay12
+  - Lay13
+  - Lay14
+  - Lay15
+  - Lay16
+  - VRKeyboard
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3758f8f58fdef43803eb9be1df0608, type: 3}
+  m_Name: PhotonServerSettings
+  m_EditorClassIdentifier: 
+  AppSettings:
+    AppIdRealtime: c108d8fd-1181-40eb-a024-9a305bc10f33
+    AppIdFusion: 
+    AppIdChat: 
+    AppIdVoice: 54fd81a5-84bb-489a-be0b-961bdfa4f303
+    AppVersion: 
+    UseNameServer: 1
+    FixedRegion: 
+    Server: 
+    Port: 0
+    ProxyServer: 
+    Protocol: 0
+    EnableProtocolFallback: 1
+    AuthMode: 0
+    EnableLobbyStatistics: 0
+    NetworkLogging: 1
+  DevRegion: eu
+  PunLogging: 0
+  EnableSupportLogger: 0
+  RunInBackground: 1
+  StartInOfflineMode: 0
+  RpcList:
+  - CantHearYou
+  - ChangeColour
+  - ClickRpc
+  - DestroyRpc
+  - HeresWhy
+  - Cartoon
+  - Cartoon_Fzo1_ColorCodedByChain
+  - Cartoon_MCTP_ColorCodedByChain
+  - Cartoon_NOX2_ColorCodedByChain
+  - Cartoon_PAR1_ColorCodedByChain
+  - Cartoon_PvdRT_OpmQ_ColorCodedByChain
+  - CartoonFzo1
+  - CartoonMCTP
+  - CartoonNOX2
+  - CartoonPAR1
+  - CartoonPvdRT_OpmQ
+  - ChangeLightIntensity
+  - DestroySpaceship
+  - DisableGazeViz
+  - DisableGrabAndScale
+  - DisableHoverAtomText
+  - DisablingHoverAtomText
+  - EnableGazeCue
+  - EnableHoverAtomText
+  - Fire
+  - GazeArrowChangeColorRPC
+  - GazeArrowChangeScaleRPC
+  - GazePointerChangeColorRPC
+  - GazePointerChangeScaleRPC
+  - GazePointlightChangeColorRPC
+  - GazeSpotlightChangeColorRPC
+  - GazeTrailChangeColorRPC
+  - GazeTrailChangeColorRPC02
+  - HB_4A97
+  - HB_4A97_ColorCodedByChain
+  - HB_4A98
+  - HB_4A98_ColorCodedByChain
+  - HB_6X3S
+  - HB_6X3S_ColorCodedByChain
+  - HB_6X3U
+  - HB_6X3U_ColorCodedByChain
+  - HB_6X3Z
+  - HB_6X3Z_ColorCodedByChain
+  - HyperBall
+  - PointLightChangeRadiusRPC
+  - RespawnSpaceship
+  - RPC_SimulateButtonPress
+  - RPC_SyncSelectedValue
+  - RPC_ToggleDropdownList
+  - SelectGazeArrow
+  - SelectGazePointer
+  - SelectGazeSpotlightArrow
+  - SelectGazeSpotlightSphere
+  - SelectGazeTrailArrow
+  - SelectGazeTrailSphere
+  - ShowEndPointer
+  - ShowHoverAtomText
+  - ShowLineRenderer
+  - Surface
+  - Surface_6X3T_ColorCodedByChain
+  - Surface_6X3V_ColorCodedByChain
+  - Surface_6X3W_ColorCodedByChain
+  - Surface_6X3X_ColorCodedByChain
+  - Surface_6X40_ColorCodedByChain
+  - Surface6X3T
+  - Surface6X3V
+  - Surface6X3W
+  - Surface6X3X
+  - Surface6X40
+  - UpdateText
+  - DisableQuizPanel
+  - loadQuizPanel
+  - UpdateCurrentPDB
+  - UpdateExpType
+  - UpdateProteinRepresentationType
+  - Cartoon_ColorCodedByChain
+  - Surface_ColorCodedByChain
+  - HyperBall_ColorCodedByChain
+  DisableAutoOpenWizard: 1
+  ShowSettings: 1
+  DevRegionSetOnce: 1
