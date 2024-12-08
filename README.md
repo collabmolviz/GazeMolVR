@@ -65,5 +65,5 @@ For inquiries or feedback, feel free to contact the contributors:
 
 - **Marc Baaden**  
   **Email**: baaden@smplinux.de  
-  **GitHub Profile**: [https://www.baaden.ibpc.fr/](https://www.baaden.ibpc.fr/)
+  **Website**: [https://www.baaden.ibpc.fr/](https://www.baaden.ibpc.fr/)
   
