@@ -57,10 +57,13 @@ To make the setup process easier to understand, we'll refer to the two users in 
 5. Either player can select the **GazeSpotlight** button from the **Eye-Gaze Menu** to view their bi-directional eye-gaze visualization on the protein structure. Player 01's gaze will be shown in red, while Player 02's gaze will be in blue.
 6. That's it—everything is ready to start a collaborative discussion session about the protein structure and its functions.
 
+## Contributors
+For inquiries or feedback, feel free to contact the contributors:
+- **Rajkumar Darbar**  
+  **Email**: rajdarbar.r@gmail.com  
+  **Website**: [https://rajkdarbar.github.io/](https://rajkdarbar.github.io/)
 
-
-
-
-
-
-
+- **Marc Baaden**  
+  **Email**: baaden@smplinux.de  
+  **GitHub Profile**: [https://www.baaden.ibpc.fr/](https://www.baaden.ibpc.fr/)
+  
