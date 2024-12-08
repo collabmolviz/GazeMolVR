@@ -1,11 +1,10 @@
-# This repository contains the Supplementary Document for our ACM MUM 2024 paper submission (Paper ID: 94).
+# This repository contains the supplementary material for the GazeMolVR project
+
+## Research Paper
+Rajkumar Darbar, Hubert Santuz, Antoine Taly, and Marc Baaden. 2024. **GazeMolVR: Sharing Eye-Gaze Cues in a Collaborative VR Environment for Molecular Visualization.** In *International Conference on Mobile and Ubiquitous Multimedia (MUM '24)*, December 01–04, 2024, Stockholm, Sweden. ACM, New York, NY, USA, 17 pages. [https://doi.org/10.1145/3701571.3701599](https://doi.org/10.1145/3701571.3701599)
 
 ## Demo Videos
-- [This video](https://drive.google.com/file/d/1tvB2JNTf7NDp836TOa4m537KqZpbFzHk/view?usp=sharing) showcases all four eye-gaze visualizations (GazePoint, GazeArrow, GazeSpotlight, and GazeTrail) across three protein representations: Cartoon, Ball-and-Stick, and Surface models.
-- [This video](https://drive.google.com/file/d/1QTk8TBnTMXxV2T_bwkqDTmJmv1q5meJN/view?usp=sharing) features two users discussing a protein depicted in Cartoon within VR, without using eye-gaze visualization.
-- [This video](https://drive.google.com/file/d/1z-mCjH2qSt0UHXq7wehrnbjavhW3fDHf/view?usp=sharing) highlights a dyad discussing a protein in Cartoon within VR, utilizing the GazeTrail visualization.
-- [This video](https://drive.google.com/file/d/1SLQ6mwcj2Ekkw_8GUMyUZ7DRwabr9V7M/view?usp=sharing) presents a discussion between two users about a protein represented in Surface within VR, without the use of eye-gaze visualization.
-- [This video](https://drive.google.com/file/d/11lHSG89VQRhU_umH3DkSWtVe9XrxKoGd/view?usp=sharing) demonstrates a dyad discussing a protein shown in Surface within VR, using the GazeSpotlight visualization.
+All videos are available [here](https://www.youtube.com/playlist?list=PLfK4VqkC4I484LIevYw7FwlmeQUoW2XHY).
 
 
 ## Prerequisite 
